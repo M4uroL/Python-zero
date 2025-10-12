@@ -116,7 +116,7 @@ python-learning-roadmap/
 📂 Organização de Cada Módulo
 Cada diretório segue uma estrutura consistente:
 modulo/
-├── README.md              # Teoria, conceitos e referências
+├── README.md               Teoria, conceitos e referências
 ├── exemplos/              # Código demonstrativo comentado
 ├── exercicios/            # Desafios práticos com soluções
 ├── projetos/              # Mini-projetos aplicados
@@ -222,5 +222,5 @@ Email: seu.email@exemplo.com
 
 <p align="center">
   <strong>⭐ Se este roadmap está ajudando você, considere deixar uma estrela no repositório!</strong><br>
-  <em>Feito com 💙 e muito ☕ por [Seu Nome]</em>
+  <em>Feito com 💙 e muito ☕ por M4uroL</em>
 </p>
